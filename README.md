@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, Thank you for visiting my GitHub. 
 
 I'm Kim Sun-ah, a Korean Unity developer.
 
